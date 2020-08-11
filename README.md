@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://developer.cisco.com/">
-    <img src="https://img.favpng.com/7/25/1/logo-brand-organization-cisco-12000-cisco-systems-png-favpng-XkANieQUXq6WFMiAAPugRqJJp.jpg" alt="Logo" width="400" height="200">
+    <img src="https://community.cisco.com/legacyfs/online/fusion/94165_cisco-devnet-logo.png" alt="Logo" width="700" height="300">
   </a>
 
   <h3 align="center">CISCO DEVNET CODE SAMPLES</h3>
